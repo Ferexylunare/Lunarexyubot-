@@ -105,4 +105,4 @@ def paginate_help(page_number, loaded_plugins, prefix):
              custom.Button.inline("avanti", data="{}_next({})".format(prefix, modulo_page)))
         ]
     return pairs
-bella boiz
+
