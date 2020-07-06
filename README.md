@@ -19,4 +19,4 @@ sottolineo che il mio è appunto un fork  del progetto di
 [![Github](https://img.shields.io/badge/Github-%20100101110-purple.svg)](https://github.com/100101110)
 se hai problemi e vuoi contattarmi scrivimi qui 
 
-[![telegram](https://img.shields.io/badge/Github-%20100101110-purple.svg)](t.me/acosaserveunusername)
+[![telegram](https://img.shields.io/badge/Telegram-%20t.me/Acosaserveunusername-purple.svg)](t.me/acosaserveunusername)
