@@ -86,7 +86,7 @@ async def _(event):
     await event.delete()
 
 
-@bot.on(dev_cmd(pattern=r"pula"))
+@bot.on(dev_cmd(pattern=r"pula2"))
 async def _(event):
     if event.fwd_from:
         return
