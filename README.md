@@ -18,5 +18,4 @@
 sottolineo che il mio è appunto un fork  del progetto di        
 [![Github](https://img.shields.io/badge/Github-%20100101110-purple.svg)](https://github.com/100101110)
 se hai problemi e vuoi contattarmi scrivimi qui 
-
-[![telegram](t.me/acosaserveunusername)](Ferexy)
+t.me/acosaserveunusername
