@@ -23,5 +23,6 @@
 - Se non ci sono causerà: `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
 
 ***
-[sottolineo che il mio è appunto un fork  del progetto di ] [![Github](https://img.shields.io/badge/Github-%20100101110-purple.svg)](https://github.com/100101110)
+sottolineo che il mio è appunto un fork  del progetto di        
+[![Github](https://img.shields.io/badge/Github-%20100101110-purple.svg)](https://github.com/100101110)
 
