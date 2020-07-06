@@ -9,7 +9,7 @@ from userbot.system import dev_cmd
 @bot.on(dev_cmd("hello ?(.*)", outgoing=True))
 async def kk(event):
     await event.edit("\n**╔┓┏╦━━╦┓╔┓╔━━╗**"
-					           "\n**║┗┛║┗━╣┃║┃║╯╰║**"
-					           "\n**║┏┓║┏━╣┗╣┗╣╰╯║**"
-					           "\n**╚┛┗╩━━╩━╩━╩━━╝**")
+		     "\n**║┗┛║┗━╣┃║┃║╯╰║**"
+		     "\n**║┏┓║┏━╣┗╣┗╣╰╯║**"
+		     "\n**╚┛┗╩━━╩━╩━╩━━╝**")
 					 
