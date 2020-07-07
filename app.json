@@ -16,6 +16,10 @@
       "description": "Inserisci la @ del tuo account Telegram",
       "value": ""
     },
+     "FIRST_NAME": {
+      "description": "Inserisci il nome del tuo account Telegram",
+      "value": ""
+    },
     "AUTONAME": {
       "description": "Requisito per il modulo autoprofilo.py imposta un nome che apparirà come nome di telegram.",
       "value": "",
